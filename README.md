@@ -32,7 +32,7 @@ Material for the tutorial session "Safe Physics-Informed Machine Learning for Dy
 
 
 ## Session slides
-<a href="./slides/Drgona_safePIML_25_min.pdf" target="_blank">Jan Drgona</a>
+<a href="./slides/Drgona_safePIML_25_min.pdf" target="_blank">Jan Drgona</a>  
 <a href="./slides/Beckers_Structured_learning_tutorial.pdf" target="_blank">Thomas Beckers</a>  
 <a href="./slides/XYZ" target="_blank">Rolf Findeisen</a>  
 
