@@ -4,7 +4,7 @@ Material for the tutorial session "Safe Physics-Informed Machine Learning for Dy
 
 
 ## Tutorial paper
-[PIML tutorial paper on arxiv](https://arxiv.org/abs/2504.12952)  
+[S-PIML tutorial paper on arxiv](https://arxiv.org/abs/2504.12952)  
 
 ## Cite as
 ```yaml
@@ -21,7 +21,7 @@ Material for the tutorial session "Safe Physics-Informed Machine Learning for Dy
 
 ### Authors of the paper
 - <a href="https://drgona.github.io/" target="_blank">Jan Drgona</a> (JHU)
-- <a href="https://directory.nau.edu/person/tn396" target="_blank">Truong X. Nghiem</a> (NAU)
+- <a href="https://truong.nxtlab.org/" target="_blank">Truong X. Nghiem</a> (UCF)
 - <a href="https://www.tbeckers.com/" target="_blank">Thomas Beckers</a> (Vanderbilt )
 - <a href="https://www.ece.jhu.edu/mahyarfazlyab/" target="_blank">Mahyar Fazlyab</a> (JHU)
 - <a href="https://mallada.ece.jhu.edu/" target="_blank">Enrique Mallada</a> (JHU)
